@@ -88,6 +88,26 @@ export LLMWHISPERER_API_KEY="your_key"
 python pdf_enrich_pipeline_stats.py
 ```
 
+## Samples
+
+The `samples/` folder contains example inputs and outputs:
+
+```
+samples/
+├── input/                    # Sample financial PDFs
+│   ├── GS Futures Global Equity CTA...pdf
+│   └── MS - Sunday Start - Credit Markets...pdf
+└── output/                   # Enriched outputs with figure analysis
+    ├── GS Futures...converted_with_figures.txt
+    └── MS - Sunday Start...converted_with_figures.txt
+```
+
+To test with samples:
+```python
+PDF_DIR = Path("./samples/input")
+OUT_DIR = Path("./samples/output_test")
+```
+
 ## Output
 
 For each PDF, generates `{filename}_enriched.txt` containing:

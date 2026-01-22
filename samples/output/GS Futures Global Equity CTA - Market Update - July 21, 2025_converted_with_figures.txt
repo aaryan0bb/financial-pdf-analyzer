@@ -1,0 +1,688 @@
+
+
+GS Futures Global Equity CTA - Market Update - July 21, 2025 
+
+ FICC and Equities                | 21 July 2025             | 1:39PM UTC 
+
+ Exhibit 1 - Conditional Regional Forecasts 
+
+                     1-Week Conditional Forecasts ($bn)                    Global Equities- 1w Baseline Historical Projections 
+
+                                                                      75 
+       ($bn) 
+          10 -                                                             +2 
+                                                                      50 
+       Flows 
+           5                                                          25 
+       Projected 
+
+           0 -                                                   bn   0 
+                                                                 Ș 
+                                                                     -25 
+          -5 
+                                                                     -50 
+                 N. America        EMEA         Asia-Pac & EM              -2 
+                                                                     -75 
+    Flat                12.95           13.09          10.52 
+    Up 20               11.46           13.90           9.30 
+    Down 2.5g           8.75            -6.78           3.73        -100 
+                                                                      2024-07 2024-09 2024-11 2025-01 2025-03 2025-05 2025-07 
+
+ Exhibit 2 - Conditional Market Forecasts 1-Month 
+
+            Global CTA/Trend 1-Month Conditional Projections ($bn)              S&P 500 - 1m Conditional Projections ($bn) 
+
+       200 - 
+                Up Small                                             40 -     Up Small 
+                 Up Big                                                       Up Big 
+       150 
+                 Down Small                                          30       Down Small 
+                                                                 ) 
+   )             Down Big                                                     Down Big 
+   $bn 100                                                       $bn 20       Flat Market 
+                 Flat Market 
+   (                                                             (   10 
+   length 50                                                     length 
+                                                                      0 
+        0 - 
+                                                                     -10 
+   Net                                                           Net 
+       -50 
+                                                                     -20 
+                                  Simulated      Conditional                                   Simulated       Conditional 
+      -100                        Realized Flows Expected Flows     -30                         Realized Flows Expected Flows 
+
+      -150 
+             22 29 06 13 20 27 03 10 17 24 08 15 22 29 05 12 19           22 29 06 13 20 27 03 10 17 24 08 15 22 29 05 12 19 
+                May         Jun         Jul        Aug                       May          Jun         Jul         Aug 
+               2025         2025       2025        2025                      2025        2025        2025        2025 
+
+                   SX5E - 1m Conditional Projections ($bn)                       Japan - 1m Conditional Projections ($bn) 
+
+       15                                                                     Up Small 
+                                                                     20 
+                                                                              Up Big 
+       10                                                             15      Down Small 
+   )                                                             )             Down Big 
+   $bn                                                           $bn 10       Flat Market 
+        5 
+   (                                                              ( length 5 
+   length 
+        0                                                             0 - 
+   Net 
+                                  Up Small                              - 
+                                                                  Net -5 
+       -5                         Up Big 
+                                 Simulated .Down Small Conditional   -10                        Simulated      Conditional 
+      -10                        RDown& Flows    Expected Flows      -15                        Realized Flows Expected Flows 
+                                  Flat Market 
+
+            22 29 06 13 20 27 03 10 17 24 08 15 22 29 05 12 19            22 29 06 13 20 27 03 10 17 24 08 15 22 29 05 12 19 
+               May         Jun          Jul        Aug                        May         Jun         Jul         Aug 
+               2025        2025        2025        2025                      2025        2025        2025        2025 
+
+ Figure 1 - Legend 
+
+    | Date      | Projection ($bn) |
+    |-----------|------------------|
+    | 2024-07   | -25              |
+    | 2024-08   | -90              |
+    | 2024-08   | +80              |
+    | 2024-09   | -40              |
+    | 2024-11   | +30              |
+    | 2025-01   | +45              |
+    | 2025-03   | -70              |
+    | 2025-05   | 0                |
+    | 2025-07   | +35              |
+
+    Summary: This line chart displays the "Global Equities - 1w Baseline Historical Projections" in billion dollars ($bn) over a one-year period from July 2024 to July 2025. The Y-axis, representing projection values, ranges from -100 $bn to +75 $bn, with dashed lines indicating ±2σ thresholds at approximately ±55 $bn. The chart illustrates extreme volatility, with the projections frequently swinging between large positive and negative values. Notable inflection points include a sharp decline to a trough of -90 $bn in early August 2024, followed by a rapid surge to a peak of +80 $bn by mid-August, both exceeding the ±2σ bounds. Another significant downturn to -70 $bn occurred in late March 2025. As of July 2025, the projections show an upward trend, ending around +35 $bn.
+
+    Explanation: This chart provides a historical baseline for 1-week projections in Global Equities, likely related to CTA (Commodity Trading Advisor) strategies as indicated by the document title. The pronounced volatility and frequent breaches of the 2-sigma thresholds suggest that CTA positioning or projected flows in global equities have historically been highly dynamic and prone to significant, rapid reversals. This historical context is crucial for understanding the conditional market forecasts presented elsewhere in the report, highlighting the inherent fluctuations and risk/opportunity landscape within CTA equity strategies.
+
+    | Market Condition | N. America ($bn) | EMEA ($bn) | Asia-Pac & EM ($bn) |
+    |------------------|------------------|------------|---------------------|
+    | Flat             | 12.95            | 13.09      | 10.52               |
+    | Up 2σ            | 11.46            | 13.90      | 9.30                |
+    | Down 2.5σ        | 8.75             | -6.78      | 3.73                |
+
+    Summary: This bar chart, "1-Week Conditional Forecasts ($bn)", projects financial flows across three key regions (N. America, EMEA, Asia-Pac & EM) under varying market conditions: Flat, Up 2σ (a significant upward move), and Down 2.5σ (a significant downward move). While all regions show positive projected flows in Flat and Up 2σ scenarios, a notable divergence emerges in a Down 2.5σ market. Under this condition, N. America and Asia-Pac & EM maintain positive flows, but EMEA projects a significant negative flow of -$6.78bn, indicating a strong susceptibility to market downturns.
+
+    Explanation: This figure, labeled Exhibit 1, provides a granular view of conditional regional forecasts for global equity CTA flows over a 1-week horizon, offering a detailed component of the broader CTA/Trend market updates. The projected negative flow for EMEA during a severe market downturn (Down 2.5σ) suggests that CTA strategies in this region may experience significant outflows or increased short positioning, potentially exacerbating downward price movements.
+
+    | Market             | Scenario           | Jul 24 Value ($bn) | Aug 19 Value ($bn) |
+    |--------------------|--------------------|--------------------|--------------------|
+    | Global CTA/Trend   | Simulated Realized | 75                 | —                  |
+    | Global CTA/Trend   | Flat Market        | 140                | 145                |
+    | Global CTA/Trend   | Down Big           | 140                | -75                |
+    | S&P 500            | Simulated Realized | 15                 | —                  |
+    | S&P 500            | Flat Market        | 30                 | 35                 |
+    | S&P 500            | Down Big           | 30                 | -15                |
+    | SX5E               | Simulated Realized | 7                  | —                  |
+    | SX5E               | Down Big           | 10                 | -8                 |
+    | Japan              | Simulated Realized | 7                  | —                  |
+    | Japan              | Down Big           | 17                 | -10                |
+
+    Summary: This set of four line charts displays 1-month conditional projections for Net Length ($bn) across Global CTA/Trend, S&P 500, SX5E, and Japan, spanning May to August 2025. Each graph illustrates 'Simulated Realized Flows' up to late July, followed by 'Conditional Expected Flows' under various market scenarios: Up Small, Up Big, Down Small, Down Big, and Flat Market. A consistent trend of increasing net length is observed in simulated flows across all markets until late July, at which point projections sharply diverge. 'Up' scenarios forecast continued significant positive flows, while 'Down' scenarios, particularly 'Down Big', predict steep declines, turning net length negative across all covered assets. Global CTA/Trend shows the largest magnitudes, from ~+200bn (Up) to ~-75bn (Down Big).
+
+    Explanation: These conditional projections offer crucial forward-looking insights into how CTA/Trend following strategies' market exposure might react to varying market performances over the next month. The sharp divergence shown, especially the potential for significant negative net length under 'Down Big' scenarios, underscores the sensitivity of CTA positioning and its potential impact on market liquidity and directional movements.
+
+    | Date       | Flat Market ($bn) | Up Small ($bn) | Up Big ($bn) | Down Small ($bn) | Down Big ($bn) |
+    |------------|-------------------|----------------|--------------|------------------|----------------|
+    | 22 May 2025 | -6.0              | N/A            | N/A          | N/A              | N/A            |
+    | 06 Jun 2025 | -0.5              | N/A            | N/A          | N/A              | N/A            |
+    | 13 Jun 2025 | 6.5               | N/A            | N/A          | N/A              | N/A            |
+    | 17 Jul 2025 | 7.0               | N/A            | N/A          | N/A              | N/A            |
+    | 24 Jul 2025 | 10.0              | 10.0           | 10.0         | 10.0             | 10.0           |
+    | 05 Aug 2025 | N/A               | 19.0           | 20.0         | 17.0             | 14.0           |
+    | 12 Aug 2025 | N/A               | 21.5           | 22.0         | 14.0             | 0.0            |
+    | 19 Aug 2025 | N/A               | 22.0           | 22.0         | 5.0              | -9.0           |
+
+    Summary: The chart, displaying "Net length ($bn)" from May to August 2025, illustrates both simulated realized CTA flows and conditional expected flows. The grey shaded area from May to late July shows "Simulated Realized Flows" for a "Flat Market," where net length increased from -$6bn to plateau around +$7bn, then rose to +$10bn by late July. From late July onwards, "Conditional Expected Flows" diverge based on market scenarios: "Up Small" and "Up Big" project continued increases in net length to over +$20bn by mid-August. Conversely, "Down Small" and "Down Big" scenarios forecast a sharp decline in net length, with "Down Big" leading to a negative net length of -$9bn by mid-August.
+
+    Explanation: This chart, titled "Global CTA/Trend 1-Month Conditional Projections ($bn)" on page 1, visualizes how global CTA (Commodity Trading Advisor) exposure is projected to change based on different market conditions over a one-month horizon. It highlights the trend-following nature of CTAs, showing a strong positive correlation between market direction and CTA net length, underscoring their potential for significant deleveraging in negative market environments or increased positioning in positive ones.
+
+    | Date | Flat Market ($bn) | Up Small ($bn) | Up Big ($bn) | Down Small ($bn) | Down Big ($bn) |
+    |----------|-------------------|----------------|--------------|------------------|----------------|
+    | 22 May   | -6.5              | N/A            | N/A          | N/A              | N/A            |
+    | 29 May   | -0.5              | N/A            | N/A          | N/A              | N/A            |
+    | 06 Jun   | 6.5               | N/A            | N/A          | N/A              | N/A            |
+    | 20 Jun   | 6.5               | N/A            | N/A          | N/A              | N/A            |
+    | 03 Jul   | 4.5               | N/A            | N/A          | N/A              | N/A            |
+    | 17 Jul   | 8.0               | N/A            | N/A          | N/A              | N/A            |
+    | 21 Jul   | 8.5               | 8.5            | 8.5          | 8.5              | 8.5            |
+    | 28 Jul   | 9.3               | 11.5           | 12.5         | 6.5              | 4.0            |
+    | 05 Aug   | 9.5               | 13.5           | 14.5         | 4.0              | 0.0            |
+    | 19 Aug   | 11.5              | 14.5           | 15.0         | -4.0             | -7.0           |
+
+    Summary: The chart "Global CTA/Trend 1-Month Conditional Projections" displays the net length ($bn) of global CTA/trend strategies from May 22 to August 19, 2025. The grey line represents "Simulated Realized Flows" until July 21, showing an increase from -$6.5bn to +$8.5bn, with a brief dip in early July. From July 21, the chart diverges into "Conditional Expected Flows" based on different market conditions: "Up Small" and "Up Big" scenarios project continued long exposure reaching up to $15bn by mid-August, while "Down Small" and "Down Big" scenarios forecast a sharp reduction, turning net length negative to as low as -$7bn by mid-August, indicating a significant de-risking or shorting.
+
+    Explanation: This chart, part of Goldman Sachs' July 21, 2025, Global Equity CTA Market Update, provides forward-looking insights into CTA positioning. The "Simulated Realized Flows" represent the historical or estimated positioning up to the report date, while the "Conditional Expected Flows" model potential CTA movements over the next month under various market performance scenarios. It serves as a crucial tool for understanding potential global CTA flow impacts on markets, enabling participants to anticipate and manage exposure based on different market trajectories.
+
+    | Date       | Flat Market ($bn) | Up Small ($bn) | Up Big ($bn) | Down Small ($bn) | Down Big ($bn) |
+    |------------|-------------------|----------------|--------------|------------------|----------------|
+    | May 22     | -19               | -19            | -19          | -19              | -19            |
+    | May 29     | -13               | -13            | -13          | -13              | -13            |
+    | Jun 06     | -5                | -5             | -5           | -5               | -5             |
+    | Jun 13     | 8                 | 8              | 8            | 8                | 8              |
+    | Jun 20     | 15                | 15             | 15           | 15               | 15             |
+    | Jul 17     | 17                | 17             | 17           | 17               | 17             |
+    | Jul 22     | 18                | 18             | 18           | 18               | 18             |
+    | Aug 05     | 18                | 35             | 37           | 30               | 10             |
+    | Aug 12     | 18                | 40             | 41           | 26               | 0              |
+    | Aug 19     | 18                | 42             | 43           | 21               | -12            |
+
+    Summary:
+    This line chart displays S&P 500 1-month conditional projections for Net Length ($bn) from May to August 2025, with Net Length on the Y-axis and time on the X-axis. The initial period, labeled "Simulated Realized Flows" (May to mid-July), shows a steady increase in S&P 500 net length from approximately -$19bn to around +$17bn. From mid-July onward, "Conditional Expected Flows" diverge based on five market scenarios. The "Up Small" and "Up Big" scenarios project significant further accumulation of long positions, reaching over +$40bn by August 19. In contrast, the "Down Small" scenario shows a moderate decline to +$21bn, while the "Down Big" scenario projects a sharp reversal, with net length falling into negative territory, reaching -$12bn by August 19. The "Flat Market" scenario maintains a stable net long position of around +$18bn.
+
+    Explanation:
+    This analysis, part of a Goldman Sachs CTA market update, demonstrates the sensitivity of CTA positioning in the S&P 500 to different future market outcomes. It suggests that while CTAs have built up significant net long exposure through mid-July, a sharp market downturn could trigger a rapid and substantial unwinding of these positions, potentially exacerbating market moves. Conversely, continued positive momentum would likely lead to further accumulation of long exposure by these trend-following strategies.
+
+    | Date | Scenario | Net Length ($bn) |
+    |---|---|---|
+    | May 22 | Flat Market | -80 |
+    | Jun 06 | Flat Market | 10 |
+    | Jun 27 | Flat Market | 70 |
+    | Jul 17 | Flat Market | 80 |
+    | Jul 24 | Up Small | 135 |
+    | Jul 24 | Down Big | 130 |
+    | Aug 05 | Up Big | 185 |
+    | Aug 05 | Down Small | 100 |
+    | Aug 19 | Up Big | 195 |
+    | Aug 19 | Down Big | -70 |
+
+    Summary: This line chart, titled 'Global CTA/Trend 1-Month Conditional Projections ($bn)', displays the net length (exposure in $bn) of global CTA/Trend strategies from May to August 2025, under five different market scenarios. The initial period until mid-July shows 'Simulated Realized Flows' where net length steadily rose from -$80bn to about +$80bn. From mid-July onwards, the 'Conditional Expected Flows' diverge significantly: 'Up Small' and 'Up Big' scenarios project continued increase in net length to near $200bn, while 'Down Small' shows a notable decrease, and 'Down Big' predicts a sharp reversal to a net short position of approximately -$70bn by mid-August.
+
+    Explanation: This figure, part of the 'Conditional Market Forecasts' on the page, illustrates how global CTA positioning is expected to react to varying market conditions over a one-month horizon. It highlights the potential for substantial shifts in CTA exposure, with strong upward market movements leading to increased net long positions, and significant downward movements prompting a rapid liquidation of long exposure or a shift to net short positioning.
+
+page_end
+
+The box and whiskers plot represents 
+
+the daily rolling 1-year distribution of 
+net length for a given market. The 
+solid box represents the inter quartile 
+range (25th - 75th percentile), where 
+the white separating line represents                      Theoretical Max 
+                                           15 - 
+                                                          Historical 1-Year Max 
+the median of the data. 
+                                           10 - 
+                                           5 - 
+ The whiskers represent the                       Inter 
+                                           0 -    Quartile Median 
+minimum and maximum net length of                 Range 
+                                           -5 - 
+the data set, over the daily rolling 1- 
+                                          -10 -           Current Value 
+year window. The green star depicts 
+                                          -15 -           Historical 1-Year Min 
+the current net length dollar value.                      Theoretical Min 
+                                                      Market 
+
+ The Theoretical Min and Theoretical 
+
+Max represent the highest / lowest 
+net length value theoretically 
+attainable according to our models 
+for that particular market 
+
+Figure 1a - Simulated Historical Net Length - 1Y time series 
+                  Global                               N. America 
+
+   150 -                                  40 - T 
+
+                                          30 - 
+   100 -                                ($bn) 
+ ($bn) 
+                                          20 - 
+ Length 50 1-                           Length 10 - 
+
+                                          0 - 
+ Net 0 -                                Net 
+                                         -10 - 
+   -50 - 
+                                         -20 - 
+
+        Global N. America EMEA Asia-Pac & EM S&P 500 Russell 2000 Nasdaq Canada 
+
+Figure 1b - Simulated Historical Net Length - 1Y time series 
+                  EMEA                                Asia-Pac & EM 
+
+   15 -                                   15 - 
+            T 
+   10 -                                   10 - 
+ ($bn)                                  ($bn) 
+                                                                   T 
+ Length 5 -                             Length 
+       T                   H              5 - 
+ Net 0 - 
+                                        Net 0 - 
+   -5 - 
+                                          -5 
+   -10 - 
+                                         -10 - 
+      AEX CAC DAX SMI SXSE UK IBEX TOP40 MIB OMX MSCI KOSPI Japan Hong China Australia Thailand 
+                                             EM           Kong 
+
+Figure 2a: Momentum Thresholds - N. America 
+
+    | Region | Market | Current Value ($bn) | Median ($bn) | 25th Pct ($bn) | 75th Pct ($bn) | Min ($bn) | Max ($bn) |
+    |--------|--------|---------------------|--------------|----------------|----------------|-----------|-----------|
+    | EMEA   | AEX    | 1.5                 | 1.0          | 0.5            | 2.0            | -0.5      | 5.0       |
+    | EMEA   | CAC    | 5.0                 | 0.5          | -2.0           | 3.0            | -6.0      | 7.0       |
+    | EMEA   | DAX    | 9.5                 | 8.0          | 6.0            | 12.0           | -8.0      | 14.0      |
+    | EMEA   | UK     | 8.0                 | 6.5          | 5.0            | 10.0           | -12.0     | 17.0      |
+    | EMEA   | IBEX   | 3.5                 | 3.5          | 3.0            | 4.0            | 2.0       | 4.5       |
+    | APAC & EM | MSCI EM | 1.5              | 0.0          | -1.0           | 1.5            | -3.5      | 3.0       |
+    | APAC & EM | Japan  | 10.0               | 6.0          | 2.0            | 10.0           | -9.0      | 16.0      |
+    | APAC & EM | Hong Kong | 3.5             | 2.5          | 1.5            | 4.0            | -2.0      | 5.0       |
+    | APAC & EM | Australia | 6.0             | 5.0          | 4.0            | 8.0            | -6.0      | 9.0       |
+    | APAC & EM | Thailand | 1.5             | 1.0          | 0.0            | 2.0            | -0.5      | 3.5       |
+
+    Summary: Figure 1b presents two box and whisker plots illustrating the "Simulated Historical Net Length" in billion dollars for various CTA/Trend equity markets within the EMEA and Asia-Pac & EM regions. The Y-axis quantifies the Net Length ($bn), while the X-axis categorizes individual markets. Each box plot displays the 1-year daily rolling distribution, showing the interquartile range (blue box), median (white line), minimum and maximum (whiskers), and the current net length value (green star). Key trends include DAX, UK, and Japan showing current net lengths near or at the upper end of their historical 1-year ranges, indicating relatively high long positioning. Conversely, markets like SMI in EMEA and MSCI EM in Asia-Pac exhibit current values closer to their historical medians or slightly lower. Japan, DAX, and UK also display the widest historical ranges, signifying more volatile positioning over time.
+
+    Explanation: This chart provides crucial insights into CTA positioning by comparing current net exposure against a 1-year historical context for individual markets. Markets with current net length approaching their historical maximums, such as Japan or DAX, suggest that CTAs are significantly long and may have limited capacity for further buying without a material shift in market conditions. Conversely, markets where the current value is closer to the median or lower percentile could offer more room for CTA re-engagement or position adjustments, providing an indicator for potential future flow dynamics.
+
+    | Market | Current Net Length ($bn) | 25th Percentile ($bn) | Median ($bn) | 75th Percentile ($bn) | Min Net Length ($bn) | Max Net Length ($bn) |
+    |:--------------|:-------------------------|:----------------------|:-------------|:----------------------|:---------------------|:---------------------|
+    | Global | 100 | 55 | 70 | 105 | -75 | 160 |
+    | N. America | 35 | 25 | 35 | 50 | -40 | 60 |
+    | EMEA | 45 | 20 | 35 | 45 | -30 | 60 |
+    | Asia-Pac & EM | 25 | 10 | 15 | 25 | -15 | 30 |
+    | S&P 500 | 20 | 12 | 20 | 32 | -25 | 42 |
+    | Russell 2000 | 3 | 0 | 3 | 5 | -7 | 7 |
+    | Nasdaq | 4 | 3 | 4 | 6 | -5 | 7 |
+    | Canada | 6 | 5 | 6 | 7 | -2 | 8 |
+
+    Summary: The figure presents two box-and-whisker plots showing the 1-year historical distribution of "Net Length ($bn)" for various markets. The left chart details Global, North America, EMEA, and Asia-Pac & EM, while the right chart focuses on North American sub-markets (S&P 500, Russell 2000, Nasdaq, Canada). Each box plot illustrates the interquartile range, median, 1-year min/max, and the current net length (green star). Key trends show Global, EMEA, and Asia-Pac & EM currently positioned at or near the 75th percentile of their 1-year historical net length, indicating relatively high current long exposure. The S&P 500 currently sits at its median, while other North American sub-markets like Russell 2000, Nasdaq, and Canada show smaller, yet positive, net length values around their medians.
+
+    Explanation: This chart provides crucial insights into the current positioning of CTA (Commodity Trading Advisor) trend-following strategies across different equity markets relative to their historical 1-year range. The elevated current net length for Global, EMEA, and Asia-Pac & EM markets suggests that CTAs are significantly long, potentially indicating a reduced capacity for further upward momentum-driven buying. This positioning also implies that these markets might be vulnerable to larger downside reversals should trends shift, as CTAs would unwind these substantial long exposures.
+
+    | Component                | Value ($bn) | Description                                                |
+    |--------------------------|-------------|------------------------------------------------------------|
+    | Theoretical Max          | ~17         | Highest net length theoretically attainable by models      |
+    | Historical 1-Year Max    | ~14.5       | Maximum net length over the daily rolling 1-year window  |
+    | Upper Quartile (75th Pct)| ~2.5        | Top of the interquartile range (75th percentile)         |
+    | Median                   | ~0.5        | White line in the box, median of the data                |
+    | Lower Quartile (25th Pct)| ~-3         | Bottom of the interquartile range (25th percentile)      |
+    | Current Value            | ~-10        | Depicted by the green star, current net length dollar value |
+    | Historical 1-Year Min    | ~-14.5      | Minimum net length over the daily rolling 1-year window  |
+    | Theoretical Min          | ~-17        | Lowest net length theoretically attainable by models     |
+
+    Summary: This figure is a generic box and whiskers plot, serving as a visual legend to explain its various components and their relation to a daily rolling 1-year distribution of net length. The Y-axis represents net length in billions of dollars ($bn), while the X-axis is labeled "Market" for a single, illustrative market. Key elements explained include the Median, Inter Quartile Range (25th to 75th percentile), Historical 1-Year Max/Min (whiskers), Theoretical Max/Min, and a "Current Value" marked by a green star, which is shown significantly below the median, near the historical minimum.
+
+    Explanation: This chart acts as a crucial explanatory diagram for interpreting the subsequent "Simulated Historical Net Length - 1Y time series" figures (1a and 1b) found elsewhere on the page. It defines how to read the net length distributions for various markets, highlighting what each visual element signifies in terms of historical ranges, theoretical limits, and current positioning, which is vital for understanding the CTA exposure analyses presented in the report.
+
+page_end
+
+                                                                        N. America - 1-Week Thresholds (vol-normalized) 
+                    N. America - 1-Day Thresholds 
+
+                                                                   0 
+         0                                                      Deviations 
+
+                                                                   -1 
+        -2                                                             5                           5            5 
+     ] 
+     %                                                          Standard 
+     [       5                                                     -2 
+        -4                              S 
+     Thresholds                                                        M                           M 
+
+                                                                - 
+                                                                 Thresholds -3                                  M 
+           - M                                       M 
+
+     Momentum 
+                                        M                          -4 
+        -8 
+                                                                 Momentum 
+
+        -10 1                                                      -5 
+
+                                                                   6 
+       -12                                                                                                       L 
+                                        L             - 
+                                                                      S&P 500     Russell 2000   Nasdaq       Canada 
+           S&P 500     Russell 2000   Nasdaq        Canada 
+
+                                                                              -1.3       -1.0       -1.3       -1.4 
+                                         4.3         -2.7       Short 
+     Short         -3.3       -3.4 
+                                                                                                    -2.5       -3.2 
+                                                    -6.1        Medium        -2.3       -1.2 
+     Medium        -5.9       4.1        -8.1 
+                                                                                         -1.1       -3.9       -6.3 
+                                         -12.8      -11.9       Long          -3.9 
+     Long          -9.9       -3.7 
+
+                    Momentum Thresholds - EMEA 
+Figure 2b - 
+
+                                                                           EMEA - 1-Week Thresholds (vol-normalized) 
+                        EMEA - 1-Day Thresholds 
+
+                                                                        S 
+                                                                 Deviations 0 
+        0.0 5                                                           M                  5        5 
+              M                          5 
+                  M   5                                                      M             M    5 
+    ]   -2.5      L             M             5                     -1       L                          5 
+    %                                                            Standard L 
+    [                               M 
+     Thresholds                                                     -2                         M 
+        -5.0                                                                                                 M 
+                                                                                                    M 
+                                         M        M              -                M 
+                       M                                                                   L 
+                                     L        M                   Thresholds -3 
+        -7.5                                                                                             M 
+     Momentum                                                                                  L 
+                                                                    -4 
+       -10.0 
+                                                                  Momentum 
+                                              L 
+                                                                    5                                        L 
+       -12.5 - 
+                                                                                                         L 
+
+       -15.0 -                                                                                      L 
+                                         L 
+                                                                                                             MIB OMX 
+                                                                        AEX CAC DAX   SMI SXSE UK IBEX TOP40 
+             AEX CAC DAX SMI   SXSE UK IBEX TOP40 MIB OMX 
+
+                                                                                       0.2 -0.2 -1.0 -0.3 -1.4 -0.6 -0.6 
+                                              -3.0 -1.8 -1.6     Short   0.2 -0.5 -0.7 
+      Short   0.4 -1.2 -1.9 0.5 -0.6 -1.9 -0.9 
+                                                       -1.4                                -1.0 -2.0 -2.5 .3.4 -2.3 -0.5 
+                                                                 Medium -0.3 -0.9 -2.6 0.3 
+                   -2.0 6.6 0.7 -2.6 -3.9 -6.3 -7.3 -6.5 
+      Medium 0.6                                                                                                  -1.0 
+                                                                         -1.5 -1.2 -5.9 -0.8 -2.8 -3.7 -6.3 5.4 -5.1 
+                                -7.0 -7.1 -15.9 -11.8 -14.6 -2.7 Long 
+       Long   -3.4 -2.8 -15.1 -1.9 
+
+                                                                Asia-PAC & EM 
+                    Momentum             Thresholds - 
+ Figure 2c - 
+
+                                                                        Asia-Pac & EM - 1-Week Thresholds (vol-normalized) 
+                     Asia-Pac & EM - 1-Day Thresholds 
+                                                                                                                  L 
+                                                       L          Deviations 
+                                                                      1 
+
+           0                                                         0 
+       ]                    5 
+                                                                  Standard 
+       %                                        5      M                               5 
+                                                                                                    5             M 
+       Thresholds           M                                        -1 
+                                                M                                      M 
+          -5                                                              S                                5 
+                                                                  - 
+                                                                   Thresholds -2 
+               M     5                          L                                                   M 
+                                                                                 5            M 
+                            L                                                          1 
+       Momentum                           M                                                                M 
+                                   M 
+          -10                                                        -3 M 
+                                                                   Momentum 
+                                                                     -4   L 
+         -15          M                                                                       L      L      L 
+                                                                                M 
+                      L 
+                                   L                                             L 
+                                          L 
+                                                                                 - 1          1 
+         -20                                     1      1 
+               1      1      1     1      1                                                        China Australia Thailand 
+              MSCI KOSPI   Japan Hong    China Australia Thailand        MSCI KOSPI   Japan Hong 
+                                                                         EM                  Kong 
+              EM                  Kong 
+                                                                                  -2.4 -0.5   -1.1   -1.0 -1.7   -2.7 
+                                          -4.3 -2.9   -6.8        Short     1.5 
+       Short     -3.7 -7.6   -1.8   -4.3 
+                                                                                  4.8   -1.2   -2.5 -2.3   -2.8 -1.1 
+                                          -9.8 4.9     -2.8       Medium    -3.1 
+       Medium    -7.7 -15.3 4.1    -10.1 
+                                                                            -4.1 -5.5   -2.6   -4.5 -4.4   4.5    1.2 
+                                   -18.2 -19.2 -7.9    3.1         Long 
+        Long    -10.4 -17.6 8.7 
+
+                     Simulated Realized Flows 
+  Figure 3a - 
+
+    | Market | 1-Day Short (%) | 1-Day Medium (%) | 1-Day Long (%) | 1-Week Short (Std Dev) | 1-Week Medium (Std Dev) | 1-Week Long (Std Dev) |
+    |:---------|:----------------|:-----------------|:---------------|:-----------------------|:------------------------|:----------------------|
+    | MSCI EM  | -3.7            | -7.7             | -10.4          | -1.5                   | -3.1                    | -4.1                  |
+    | KOSPI    | -7.6            | -15.3            | -17.6          | -2.4                   | -4.8                    | -5.5                  |
+    | Japan    | -1.8            | -4.1             | -8.7           | -0.5                   | -1.2                    | -2.6                  |
+    | Hong Kong| -4.3            | -10.1            | -18.2          | -1.1                   | -2.5                    | -4.5                  |
+    | China    | -4.3            | -9.8             | -19.2          | -1.0                   | -2.3                    | -4.4                  |
+    | Australia| -2.9            | -4.9             | -7.9           | -1.7                   | -2.8                    | -4.5                  |
+    | Thailand | -6.8            | -2.8             | 3.1            | -2.7                   | -1.1                    | 1.2                   |
+
+    Summary: The charts, titled "Momentum Thresholds - Asia-PAC & EM", present 1-Day and 1-Week (vol-normalized) momentum thresholds for seven markets: MSCI EM, KOSPI, Japan, Hong Kong, China, Australia, and Thailand. The X-axis lists these markets, while the Y-axis shows "Momentum Thresholds (%)" for 1-Day and "Momentum Thresholds - Standard Deviations" for 1-Week. Short (S), Medium (M), and Long (L) momentum thresholds are plotted, with corresponding precise values in the tables below. Generally, thresholds are negative, implying that price movements must be downward to trigger momentum signals. As expected, longer-term thresholds (Long) are typically more negative than shorter-term ones (Short, Medium). Thailand is a striking exception, showing a positive "Long" momentum threshold for both 1-Day (+3.1%) and 1-Week (+1.2 Std Dev), unlike all other markets which are negative. KOSPI exhibits the most negative thresholds across all categories and timeframes.
+
+    Explanation: These momentum thresholds define the necessary price movements to trigger "Short," "Medium," or "Long" momentum signals for quantitative trading strategies. The predominantly negative thresholds across the Asia-Pacific & EM region suggest a general bearish bias, where significant declines are required to activate these signals. Thailand's unique positive long-term thresholds might indicate a strong, persistent bullish trend in that market, setting it apart from its regional peers in terms of momentum characteristics.
+
+    | Market | 1-Day Short (%) | 1-Day Medium (%) | 1-Day Long (%) | 1-Week Short (Std Dev) | 1-Week Medium (Std Dev) | 1-Week Long (Std Dev) |
+    |---|---|---|---|---|---|---|
+    | S&P 500 | -3.3 | -5.9 | -9.9 | -1.3 | -2.3 | -3.9 |
+    | Russell 2000 | -3.4 | -4.1 | -3.7 | -1.0 | -1.2 | -1.1 |
+    | Nasdaq | -4.3 | -8.1 | -12.8 | -1.3 | -2.5 | -3.9 |
+    | Canada | -2.7 | -6.1 | -11.9 | -1.4 | -3.2 | -6.3 |
+
+    Summary: This figure, "Figure 2a," displays momentum thresholds for key North American markets including S&P 500, Russell 2000, Nasdaq, and Canada, across two timeframes: 1-Day and 1-Week (volatility-normalized). For each market, three thresholds (Short, Medium, Long) are presented, indicating the required price movement (in percentage for 1-Day, or standard deviations for 1-Week) to trigger a momentum signal. A consistent trend shows that longer-term thresholds (Long) are generally more negative, implying larger price declines are needed to signal negative momentum. Nasdaq typically exhibits the most extreme (negative) thresholds, especially for Medium and Long terms, while Russell 2000 often has comparatively less negative thresholds, particularly for its 1-Week Long threshold, which is the least negative among all shown.
+
+    Explanation: These momentum thresholds are critical for quantitative trading models, indicating the price change (or volatility-normalized deviation) at which momentum-driven strategies would generate "short" or "long" signals. The varying magnitudes across indices like Nasdaq versus Russell 2000 suggest that different market segments have distinct sensitivities to price movements, necessitating customized momentum strategies and risk parameters. Such insights are foundational for understanding simulated realized flows and broader market positioning, as seen in subsequent figures on the page.
+
+    | Index | 1-Day Short (%) | 1-Day Medium (%) | 1-Day Long (%) | 1-Week Short (Std Dev) | 1-Week Medium (Std Dev) | 1-Week Long (Std Dev) |
+    |-------|-----------------|------------------|----------------|------------------------|-------------------------|-----------------------|
+    | AEX   | 0.4             | -0.6             | -3.4           | 0.2                    | -0.3                    | -1.5                  |
+    | CAC   | -1.2            | -2.0             | -2.8           | -0.5                   | -0.9                    | -1.2                  |
+    | DAX   | -1.9            | -6.6             | -15.1          | -0.7                   | -2.6                    | -5.9                  |
+    | SMI   | 0.5             | 0.7              | -1.9           | 0.2                    | 0.3                     | -0.8                  |
+    | SX5E  | -0.6            | -2.6             | -7.0           | -0.2                   | -1.0                    | -2.8                  |
+    | UK    | -1.9            | -3.9             | -7.1           | -1.0                   | -2.0                    | -3.7                  |
+    | IBEX  | -0.9            | -6.3             | -15.9          | -0.3                   | -2.5                    | -6.3                  |
+    | TOP40 | -3.0            | -7.3             | -11.8          | -1.4                   | -3.4                    | -5.4                  |
+    | MIB   | -1.8            | -6.5             | -14.6          | -0.6                   | -2.3                    | -5.1                  |
+    | OMX   | -1.6            | -1.4             | -2.7           | -0.6                   | -0.5                    | -1.0                  |
+
+    Summary: This figure, labeled "Figure 2b - Momentum Thresholds - EMEA," presents two charts showing momentum thresholds for key EMEA equity indices across two timeframes: 1-Day (in %) and 1-Week (vol-normalized in Standard Deviations). Each index (AEX, CAC, DAX, SMI, SX5E, UK, IBEX, TOP40, MIB, OMX) has defined "Short", "Medium", and "Long" momentum thresholds. A general trend observed is that "Long" thresholds are significantly more negative than "Short" or "Medium" thresholds, indicating a stronger negative momentum requirement for long-term signals. DAX and IBEX consistently show the deepest negative "Medium" and "Long" thresholds, particularly for the 1-Day period (e.g., DAX 1-Day Long at -15.1%, IBEX 1-Day Long at -15.9%), suggesting strong bearish sentiment or established downward trends.
+
+    Explanation: These momentum thresholds are crucial for quantitative trading strategies, defining the critical price or volatility movements that trigger specific trading signals. The differentiation between 1-Day and 1-Week thresholds, alongside the use of volatility normalization for the weekly view, highlights how market momentum is assessed differently over various horizons and when adjusted for inherent volatility. This enables traders to identify when an EMEA market has exhibited sufficient momentum to warrant a short or long position, informing risk management and strategy implementation within the region.
+
+    | Momentum Threshold Type | MSCI EM | KOSPI | Japan | Hong Kong | China | Australia | Thailand |
+    |-------------------------|---------|-------|-------|-----------|-------|-----------|----------|
+    | Short                   | -3.7    | -7.6  | -1.8  | -4.3      | -4.3  | -2.9      | -6.8     |
+    | Medium                  | -7.7    | -15.3 | -4.1  | -10.1     | -9.8  | -4.9      | -2.8     |
+    | Long                    | -10.4   | -17.6 | -8.7  | -18.2     | -19.2 | -7.9      | 3.1      |
+
+    Summary: This bar chart, titled "Asia-PAC & EM - 1-Day Thresholds", displays momentum thresholds in percentage terms for various Asian Pacific and Emerging Markets. The Y-axis represents "Momentum Thresholds (%)", while the X-axis lists specific markets including MSCI EM, KOSPI, Japan, Hong Kong, China, Australia, and Thailand. Each market has three distinct thresholds: Short (S), Medium (M), and Long (L). A clear trend of increasingly negative thresholds from Short to Long is observed across most markets, indicating larger downward movements are required to trigger longer-term momentum signals. Notably, KOSPI, Hong Kong, and China exhibit the most significantly negative long-term thresholds, with China's long threshold at -19.2%. The most unusual value is Thailand's Long momentum threshold, which stands out as positive at 3.1%, contrasting sharply with all other markets' negative values across all categories.
+
+    Explanation: This chart, Figure 2c, provides specific 1-day momentum thresholds for key Asia-Pacific and Emerging Markets, serving as part of a series (Figures 2a, 2b, 2c) that likely defines trigger points for momentum-based trading strategies. The predominantly negative thresholds across the region suggest that significant downward price movements are generally needed to activate momentum signals, potentially indicating a bias towards bearish signals or a requirement for strong conviction to initiate long positions. Thailand's positive long-term threshold could imply a different underlying market dynamic or a less volatile long-term momentum profile compared to its regional peers.
+
+    | Threshold Type | AEX | CAC | DAX | SMI | SXSE | UK | IBEX | TOP40 | MIB | OMX |
+    |----------------|-----|-----|-----|-----|------|----|------|-------|-----|-----|
+    | Short          | 0.4 | -1.2 | -1.9 | 0.5 | -0.6 | -1.9 | -0.9 | -3.0 | -1.8 | -1.6 |
+    | Medium         | -0.6 | -2.0 | -6.6 | 0.7 | -2.6 | -3.9 | -6.3 | -7.3 | -6.5 | -1.4 |
+    | Long           | -3.4 | -2.8 | -15.1 | -1.9 | -7.0 | -7.1 | -15.9 | -11.8 | -14.6 | -2.7 |
+
+    Summary: The "EMEA - 1-Day Thresholds" chart illustrates the percentage momentum thresholds for Short, Medium, and Long-term periods across ten key EMEA market indices, including AEX, DAX, SMI, and IBEX. The Y-axis represents Momentum Thresholds in percentage. A dominant trend shows that most thresholds are negative, particularly for Long-term momentum, suggesting a prevailing bearish or sideways market environment. Distinct anomalies include positive short-term thresholds for AEX (+0.4%) and SMI (+0.5%), with SMI also showing a positive medium-term threshold (+0.7%). Conversely, DAX (-15.1%), IBEX (-15.9%), and MIB (-14.6%) stand out with the most significantly negative Long-term thresholds.
+
+    Explanation: These momentum thresholds are crucial for systematic trading strategies, such as those employed by CTAs, as they define the price movement required to trigger specific momentum signals. The deeply negative long-term thresholds observed in indices like DAX, IBEX, and MIB imply that these markets either exhibit strong persistent downward trends or would necessitate substantial positive price changes to reverse current momentum biases, thereby influencing potential long or short positions.
+
+    | Market | Short Threshold (SD) | Medium Threshold (SD) | Long Threshold (SD) |
+    |---|---|---|---|
+    | MSCI EM | -1.5 | -3.1 | -4.1 |
+    | KOSPI | -2.4 | -4.8 | -5.5 |
+    | Japan | -0.5 | -1.2 | -2.6 |
+    | Hong Kong | -1.1 | -2.5 | -4.5 |
+    | China | -1.0 | -2.3 | -4.4 |
+    | Australia | -1.7 | -2.8 | -4.5 |
+    | Thailand | -2.7 | -1.1 | 1.2 |
+
+    Summary: This chart, "Asia-Pac & EM - 1-Week Thresholds (vol-normalized)," illustrates the momentum thresholds in standard deviations for various Asia-Pacific and Emerging Market indices (MSCI EM, KOSPI, Japan, Hong Kong, China, Australia, Thailand). It presents Short (S), Medium (M), and Long (L) term thresholds. Most thresholds are negative, implying that a negative price movement is required to trigger these momentum signals across the majority of markets. KOSPI exhibits the lowest (most negative) thresholds across all three horizons, indicating a stronger negative move is needed there. A significant outlier is Thailand, which uniquely shows a positive Long threshold of +1.2 standard deviations, contrasting sharply with the negative long-term thresholds observed in all other markets.
+
+    Explanation: As Figure 2c, this chart provides granular detail on the vol-normalized momentum required to trigger systematic trading signals for different time horizons within the Asia-Pacific and Emerging Markets. These momentum thresholds are crucial for understanding the potential behavior of quantitative strategies like CTAs, as they dictate the price movements necessary to activate buy or sell signals. The distinct positive long-term threshold for Thailand suggests unique market dynamics or sensitivities compared to its regional peers, which could influence overall simulated realized flows and market positioning for these asset classes.
+
+    | Market | Short Threshold (Std Dev) | Medium Threshold (Std Dev) | Long Threshold (Std Dev) |
+    |---|---|---|---|
+    | AEX | 0.2 | -0.3 | -1.5 |
+    | CAC | -0.5 | -0.9 | -1.2 |
+    | DAX | -0.7 | -2.6 | -5.9 |
+    | SMI | 0.2 | 0.3 | -0.8 |
+    | SXSE | -0.2 | -1.0 | -2.8 |
+    | UK | -1.0 | -2.0 | -3.7 |
+    | IBEX | -0.3 | -2.5 | -6.3 |
+    | TOP40 | -1.4 | -3.4 | -5.4 |
+    | MIB | -0.6 | -2.3 | -5.1 |
+    | OMX | -0.6 | -0.5 | -1.0 |
+
+    Summary: This chart, titled "EMEA - 1-Week Thresholds (vol-normalized)", displays the momentum thresholds in standard deviations for various EMEA market indices (X-axis) across Short (S), Medium (M), and Long (L) timeframes (Y-axis). Most momentum thresholds are negative, indicating that a negative price deviation is generally required to trigger momentum signals. A clear trend shows that longer-term (Long) thresholds are typically more negative than their Short or Medium counterparts for the same market. Notably, AEX and SMI exhibit positive or near-zero Short and Medium thresholds, which are highlighted in red on the chart, suggesting a different, potentially less negative, sensitivity for momentum signals in these markets. DAX, IBEX, TOP40, and MIB stand out with the most significantly negative Long-term thresholds, indicating substantial downward movements are needed to trigger long-term momentum signals.
+
+    Explanation: This figure, part of a series on "Momentum Thresholds" across regions, defines the volatility-normalized standard deviation required for various EMEA market indices to register short, medium, or long-term momentum signals over a one-week period. These thresholds are critical for quantitative trading strategies, such as those employed by CTAs, by quantitatively defining the significant price movements that would trigger buy or sell signals. The general negativity of the thresholds, especially for longer timeframes, suggests that these models primarily identify and react to downward momentum in markets, with certain markets like AEX and SMI showing unique, less negative or even slightly positive, Short/Medium term thresholds.
+
+    | Timeframe | S&P 500 | Russell 2000 | Nasdaq | Canada |
+    |-----------|---------|--------------|--------|--------|
+    | Short     | -1.3    | -1.0         | -1.3   | -1.4   |
+    | Medium    | -2.3    | -1.2         | -2.5   | -3.2   |
+    | Long      | -3.9    | -1.1         | -3.9   | -6.3   |
+
+    Summary: The chart displays 1-week momentum thresholds, normalized by volatility, for key North American equity indices: S&P 500, Russell 2000, Nasdaq, and Canada. The Y-axis represents momentum thresholds in standard deviations, while the X-axis categorizes the indices. Data points are segmented into 'Short', 'Medium', and 'Long' timeframes, with corresponding numerical values provided in the accompanying table. All thresholds are negative, indicating that a certain level of negative standard deviation is required to trigger a momentum signal. Notably, Canada exhibits the most negative (deepest) thresholds across all timeframes, especially for the 'Long' duration at -6.3 standard deviations, while the Russell 2000 generally shows less negative thresholds than its peers.
+
+    Explanation: This visual presents crucial inputs for momentum-based trading strategies, such as those utilized by CTAs, by quantifying the necessary price deviations to signal a trend. The "vol-normalized" aspect ensures these thresholds account for market volatility, providing a standardized measure across different market environments. The generally deeper negative thresholds for longer durations suggest a greater conviction (larger negative move) is required for long-term momentum signals to activate.
+
+    | Momentum Threshold Type | S&P 500 | Russell 2000 | Nasdaq | Canada |
+    |-------------------------|---------|--------------|--------|--------|
+    | Short                   | -3.3%   | -3.4%        | -4.3%  | -2.7%  |
+    | Medium                  | -5.9%   | -4.1%        | -8.1%  | -6.1%  |
+    | Long                    | -9.9%   | -3.7%        | -12.8% | -11.9% |
+
+    Summary: This chart, "N. America - 1-Day Thresholds," illustrates the percentage declines required to trigger Short, Medium, and Long momentum signals for four North American equity indices: S&P 500, Russell 2000, Nasdaq, and Canada. All thresholds are negative, indicating downside momentum signals. The Nasdaq index consistently exhibits the most negative (largest absolute) thresholds across all three horizons, notably -12.8% for the Long threshold. In contrast, the Russell 2000 shows the least negative thresholds for Medium (-4.1%) and Long (-3.7%) momentum, suggesting it requires a comparatively smaller decline to trigger these signals.
+
+    Explanation: The momentum thresholds presented likely inform CTA (Commodity Trading Advisor) strategies, defining the price movements that trigger trading signals. The significant variation in thresholds across indices implies different sensitivity levels to price changes and potentially varying underlying volatility or typical price action. For instance, Nasdaq's larger negative thresholds suggest it takes a more substantial downward move to register a momentum signal, contrasting with the Russell 2000 which appears to signal momentum on relatively smaller declines.
+
+page_end
+
+     Global                Totals:              N. America           Totals: 
+                            Last Week: $ 20.0 bn                      Last Week: $ 6.1 bn 
+                            Last Month: $ 21.8 bn                     Last Month: $ 8.8 bn 
+
+                                   Last Week 3.5 -                           Last Week 
+   8 -                             Last Month                                Last Month 
+                                              3.0 - 
+  ($bn)                                     ($bn) 
+    6                                         25 - 
+  Flows                                     Flows 
+                                              2.0 - 
+  Realized 
+    4 -                                        - 
+                                            Realized - 
+    2 - 
+                                             0.5 - 
+
+   0                                         0.0 
+        N. America    EMEA      Asia-Pac & EM     S&P 500 Russell 2000 Nasdaq Canada 
+
+Figure 3b - Simulated Realized Flows 
+      EMEA                 Totals:              Asia-Pac & EM        Totals: 
+                            Last Week: $ 8.7 bn                       Last Week: $ 5.2 bn 
+                            Last Month: $ 7.2 bn                      Last Month: $ 5.8 bn 
+                                              3.0 
+                                   Last Week                                 Last Week 
+    2 -                            Last Month                                Last Month 
+                                            ($bn) 
+  ($bn) 
+    1 -                                      20 - 
+                                            Flows 
+  Flows 
+                                              1.5 - 
+    0 - 
+  Realized 
+                                              1.0 - 
+   -1 - 
+                                           Realized 0.5 - 
+
+    -2 -                                      0.0 - 
+
+                                                  MSCI KOSPI Japan Hong China Australia Thailand 
+       AEX CAC DAX SMI SXSE UK IBEX TOP40 MIB OMX EM            Kong 
+
+All references to "we/us/our" refer to the views and observations of the desk. 
+
+All graphs above are sourced by Goldman Sachs FICC and Equities, Futures Sales 
+
+Strats, As of 7/21/2025. 
+
+All data / graphs: Simulated results are for illustrative purposes only. GS 
+
+provides no assurance or guarantee that the strategy will operate or would have 
+
+operated in the past in a manner consistent with the above analysis. Past 
+
+performance figures are not a reliable indicator of future results 
+
+    | Region | Market | Last Week Flow ($bn) | Last Month Flow ($bn) |
+    |---|---|---|---|
+    | EMEA | Totals | $8.7 | $7.2 |
+    | EMEA | AEX | $0.2 | $-0.1 |
+    | EMEA | DAX | $1.3 | $1.8 |
+    | EMEA | SMI | $-0.2 | $-2.4 |
+    | EMEA | UK | $1.4 | $1.9 |
+    | EMEA | OMX | $0.4 | $1.7 |
+    | Asia-Pac & EM | Totals | $5.2 | $5.8 |
+    | Asia-Pac & EM | Japan | $2.8 | $2.9 |
+    | Asia-Pac & EM | Hong Kong | $0.6 | $0.8 |
+    | Asia-Pac & EM | Australia | $0.9 | $1.2 |
+
+    Summary: This figure presents two bar charts illustrating simulated realized flows ($bn) for various equity markets within the EMEA and Asia-Pac & EM regions, contrasting "Last Week" and "Last Month" values. Overall, EMEA saw an increase in total realized flows, reaching $8.7bn last week from $7.2bn last month, while Asia-Pac & EM experienced a slight decrease, from $5.8bn to $5.2bn. Prominent positive flows are observed in Japan (around $2.8-2.9bn), UK (up to $1.9bn last month), and DAX (up to $1.8bn last month). The Swiss market (SMI) stands out with a significant negative flow of -$2.4bn last month, improving to -$0.2bn last week, indicating a reversal of a strong outflow.
+
+    Explanation: These simulated realized flow charts offer insight into recent capital movements across key European, Asian, and Emerging Markets, complementing broader flow analyses. The regional differences in flow trends, such as EMEA's increased inflows versus Asia-Pac & EM's slight decline, suggest varying investor behavior or systemic factors influencing these markets. As these are simulated results from Goldman Sachs, they represent model-derived projections rather than actual observed transactions, providing an illustrative view of potential market activity and sentiment.
+
+    | Category | Sub-Category | Last Week Flows ($bn) | Last Month Flows ($bn) |
+    |---|---|---|---|
+    | Global Totals | | 20.0 | 21.8 |
+    | Global Regions | N. America | 6.1 | 8.8 |
+    | | EMEA | 8.5 | 7.2 |
+    | | Asia-Pac & EM | 5.2 | 5.8 |
+    | N. America Totals | | 6.1 | 8.8 |
+    | N. America Indices | S&P 500 | 3.5 | 3.3 |
+    | | Russell 2000 | 0.7 | 3.2 |
+    | | Nasdaq | 0.6 | 0.7 |
+    | | Canada | 1.3 | 1.6 |
+
+    Summary: The charts, titled "Simulated Realized Flows," display financial flows in billion USD across global regions and specific North American indices for "Last Week" (light blue bars) and "Last Month" (dark blue bars). The left chart shows global regional flows, indicating a slight decrease in overall global flows from $21.8bn last month to $20.0bn last week. Regionally, EMEA had the largest Last Week inflows ($8.5bn) but experienced a decrease from its Last Month figure. The right chart details North American flows, highlighting a significant drop in Russell 2000 flows from $3.2bn last month to $0.7bn last week, contrasting with S&P 500, Nasdaq, and Canada, which showed more stable or slightly varying trends.
+
+    Explanation: These simulated realized flows, sourced from Goldman Sachs, provide a snapshot of recent capital movements across global equity markets. The notable decline in Russell 2000's Last Week flows suggests a significant reduction in exposure to US small-cap equities, potentially signaling a shift in investor sentiment or a reallocation of capital. It's important to note that these are simulated results for illustrative purposes only and do not guarantee past or future performance.
+
+    | Region           | Last Week Flows ($bn) | Last Month Flows ($bn) |
+    |------------------|-----------------------|------------------------|
+    | N. America       | 6.1                   | 8.8                    |
+    | EMEA             | 8.7                   | 7.2                    |
+    | Asia-Pac & EM    | 5.2                   | 5.8                    |
+    | Global Total     | 20.0                  | 21.8                   |
+
+    Summary:
+    This bar chart, titled "Global Simulated Realized Flows," visualizes financial flows in billions of dollars across three major regions: North America, EMEA, and Asia-Pacific & Emerging Markets. It compares flows from "Last Week" (light blue) against "Last Month" (dark blue). Globally, total realized flows saw a modest decrease from $21.8 billion last month to $20.0 billion last week. Regionally, North America experienced a significant decline in flows from $8.8 billion to $6.1 billion. Conversely, EMEA recorded an increase in flows from $7.2 billion to $8.7 billion, making it the largest contributor last week, while Asia-Pac & EM saw a slight decrease from $5.8 billion to $5.2 billion.
+
+    Explanation:
+    This data on simulated realized flows indicates a re-allocation of capital across global regions, with EMEA demonstrating increased activity that partially offset the notable decline in North American flows. Such divergences in simulated flows suggest dynamic portfolio adjustments by systematic strategies, possibly driven by evolving momentum signals or differing market conditions across these distinct geographical areas.
+
+    | Index/Region | Last Week Flows ($bn) | Last Month Flows ($bn) |
+    |--------------|-----------------------|------------------------|
+    | S&P 500      | 3.5                   | 3.4                    |
+    | Russell 2000 | 0.7                   | 3.2                    |
+    | Nasdaq       | 0.6                   | 0.7                    |
+    | Canada       | 1.3                   | 1.6                    |
+
+    Summary: This bar chart, titled "N. America", illustrates Realized Flows in billions of dollars for key North American indices and regions: S&P 500, Russell 2000, Nasdaq, and Canada. The chart compares "Last Week" (light blue bars) versus "Last Month" (dark blue bars) flows. Overall North American flows totaled $6.1 billion Last Week and $8.8 billion Last Month. The S&P 500 consistently shows the highest flows, around $3.4-$3.5 billion, while Russell 2000 saw a substantial decrease from $3.2 billion Last Month to $0.7 billion Last Week. Nasdaq flows were relatively stable and lower, whereas Canada experienced a slight increase in flows from Last Month ($1.6 billion) to Last Week ($1.3 billion, though visual seems to indicate Last Week is lower than Last Month, so Last Week $1.3bn and Last Month $1.6bn is correct based on visual estimation and consistency with other charts).
+
+    Explanation: This chart details the composition of "Simulated Realized Flows" within the North American region, as part of the broader figures presented in Figure 3b on page 4. It highlights significant shifts in investor positioning across different market segments, particularly the notable decrease in flows for Russell 2000 from the prior month, suggesting a potential shift away from small-cap exposure.
+
+page_end
