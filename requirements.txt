@@ -1,0 +1,16 @@
+# PDF Enrichment Pipeline Dependencies
+
+# Google Gemini AI for figure analysis
+google-generativeai>=0.3.0
+
+# Unstract LLMWhisperer for PDF text extraction
+llmwhisperer-client>=1.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Note: MinerU must be installed separately
+# See: https://github.com/opendatalab/MinerU
